@@ -1,0 +1,236 @@
+{
+  "images": {
+    "hero": {
+      "width": 697,
+      "height": 1258,
+      "widths": [
+        480,
+        697
+      ],
+      "alt": {
+        "es": "LANTANO de frente, brazos cruzados",
+        "en": "LANTANO facing the camera, arms crossed"
+      },
+      "cutout": true,
+      "blur": null
+    },
+    "seated": {
+      "width": 720,
+      "height": 1104,
+      "widths": [
+        480,
+        720
+      ],
+      "alt": {
+        "es": "LANTANO sentado con piluso negro y camisa blanca",
+        "en": "LANTANO seated, black bucket hat and white shirt"
+      },
+      "cutout": true,
+      "blur": null
+    },
+    "shades": {
+      "width": 928,
+      "height": 1513,
+      "widths": [
+        480,
+        800,
+        928
+      ],
+      "alt": {
+        "es": "LANTANO con lentes oscuros mirando hacia abajo",
+        "en": "LANTANO in dark sunglasses looking down"
+      },
+      "cutout": true,
+      "blur": null
+    },
+    "booth": {
+      "width": 1066,
+      "height": 1600,
+      "widths": [
+        480,
+        800,
+        1066
+      ],
+      "alt": {
+        "es": "LANTANO mezclando en cabina con auriculares",
+        "en": "LANTANO mixing in the booth with headphones"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdAB5W5yh7Y/aAhrPoAP6jZ4aKyQrNvLnMqmlhM4m9H2jjcWgizq+8gq9gh+AdCkY16Hltnq3vVVcwTArUZ7soNNSBavXDPy/A4jUdq5PArzBKACiG2evQmoGP3tjKq4OA9WFCw35qFQKzYmzOAme+BT1bG0bGN8y7fyx8OJanloe7Hs3vY/3GQe/5Gzgnat8lt7leYAAA"
+    },
+    "hat-tip": {
+      "width": 5294,
+      "height": 7940,
+      "widths": [
+        480,
+        800,
+        1200,
+        1800
+      ],
+      "alt": {
+        "es": "Retrato de LANTANO tocando el ala de su piluso",
+        "en": "Portrait of LANTANO touching the brim of his bucket hat"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoQABgAPu1mqk2ppaQiMAgBMB2JQAB8aUG/GoLFSwzI1x2al4AA/vQb506cFQqMP3AFOhI4ca/vv2hWYryT2gOlxpdewlnF2xkA96KPpTUC/p5pzx1SxyPQoM/5KBR77sPACfwZAHQX0dNDIib34w5eIlW4kSdaUHchCuujRtJgAA=="
+    },
+    "white-shirt": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "LANTANO con camisa blanca y lentes metálicos",
+        "en": "LANTANO in a white shirt and metal-frame sunglasses"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoQABgAPu1orU2ppqSiMAgBMB2JZQABHuoEgpibHlspf87AAP7+bWzpQeDiLiZn9uel+zHBlofjxKCSbqomB6eHbpYacNc27dniAX13+9B+tT9UDIM8jsDgkHzkXzQDkVVz3NGSfwEvV/oVXgnBrMTCK2irdgR1Y+dBbNZXtxnlAAAA"
+    },
+    "profile": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "Perfil de LANTANO pensativo, camisa verde",
+        "en": "LANTANO in profile, thoughtful, green shirt"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoQABgAPu1orU2ppqSiMAgBMB2JZQBVQYeh6Cw+5KNyXCSqAAD+9Bv9sk2mFVysBdf9HMg5X8eyz0AnLU0cNOmLtpbbjdvGOvJhqUmT9B1cW6cCSeerQhsZ2KBe0e63LAyQy4wMheH5mCT2omsAAA=="
+    },
+    "hat-portrait": {
+      "width": 1080,
+      "height": 1920,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "Retrato de LANTANO con piluso, luz lateral",
+        "en": "Portrait of LANTANO in a bucket hat, side light"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoQABwAPu1oqk6ppiQiMAgBMB2JZQDE2GlgQv173BxJKyIBEZ8AAP7+E6vMV1CBcsS1Au2nkFm1v6J63rOxDbAWMlOWEFrNTYdOy/pJiW0ZCXYUJUPsKsCWD0awKlzCdD/saWZD+wXVFpJ7FNixp9y9SAxSY8qotnJAAA=="
+    },
+    "side-shades": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "LANTANO de perfil con lentes oscuros",
+        "en": "LANTANO in profile with dark sunglasses"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoQABgAPu1yrU+pp6QiMAgBMB2JYwC+SCHf3+9COogL7JEYgAD+8phY2TKK6byn+mSZ7J4FFit8p4wKiNQ4ic7WgZePyTxvAcJ3Qc8SPtTpbFRF0sHeVgBEIeKhxtW/qG7U3cWAhO/malq/68685Ha8In/gAA=="
+    },
+    "jersey-back": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "LANTANO de espaldas con camiseta 88",
+        "en": "LANTANO from behind in a number 88 jersey"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoQABgAPu1iqU2ppaQiMAgBMB2JZwAAW51twhaJ0mf4sYvMAP7qQunRI62gL6fu/sLw7N1XsN7/hJp3fnowy6LEoiWyYvKEtiFSivdXh29RiQNiu5IxTtHJ+YriIpG1NALScITnJFxw2f43oalzJDFJbElQAA=="
+    },
+    "close-shades": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "Primer plano de LANTANO con lentes",
+        "en": "Close-up of LANTANO in sunglasses"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JQAALfUe7lyYXMSXtxAD+9CiJlgGGHW+dlPl5844fN5a8VMapvUfL1BewZ3ds0vH6kZKSQu8bWPat79fIXFQuRkbi7lhiTVL90XiYLfInAm6IOAAAAA=="
+    },
+    "jersey-profile": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "LANTANO de perfil con camiseta 88",
+        "en": "LANTANO in profile wearing a number 88 jersey"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoQABgAPu1mq04ppaQiMAgBMB2JZwAAXfBm2ZozU7UqAAD+8qzW+8OdyHWzW7BICTdQyTbLrG1KqwwCVG2yrd5nowhlc32GJHrhLLPyoAAAAA=="
+    },
+    "hat-back": {
+      "width": 1080,
+      "height": 1620,
+      "widths": [
+        480,
+        800,
+        1080
+      ],
+      "alt": {
+        "es": "LANTANO acomodándose el piluso",
+        "en": "LANTANO adjusting his bucket hat"
+      },
+      "cutout": false,
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZwAAW+e7CtC4pzUlHW5QgAD+7A5fvpeOcZebPlTGASHvfWAdXj6dwJhF+e9d0tFYF+WvDRJ8G2qQhdCnUuWtqFrVZVvvaWZ94k9MHFahMpB+s+fq/S7A0qDWT6X9LvfC26gA"
+    }
+  },
+  "videos": {
+    "day-session": {
+      "width": 720,
+      "height": 1280,
+      "alt": {
+        "es": "Set de día frente a una pared de piedra",
+        "en": "Daytime set in front of a stone wall"
+      },
+      "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBACdASoQABwAPu1iqU2ppaOiMAgBMB2JZgCdAYyAZuXutOroWdAYrlLYAMxwWoc3lC3L+suetsGG9acSv2BmAp4n4zoaFq9d1ZeGjhdwmWj0LBZPf4dO1wT4KcXDH4ZTbZUxtBEgt5UWgmZt28LIaHNsHQNifY8HX5Lrb/vGezqXHDV+qSUqLxo06NYk5UGxSo1waQ25G6TX9kCm5SpIfIBYufXAstlva7px/87yjs+Gfim/k8jan2FNHUqfUqE5AAAA"
+    },
+    "booth-red": {
+      "width": 464,
+      "height": 832,
+      "alt": {
+        "es": "LANTANO en cabina bajo luces rojas y azules",
+        "en": "LANTANO in the booth under red and blue lights"
+      },
+      "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoQAB0APu1iqU2ppaOiMAgBMB2JbACdH8AguEonV+DONqAL/mQAAP7Svy2R1bY+4SVn4FZTtx3ZiMfeZndSO/n34jzoNsl8T5QJc+YsVvtayQ3CYrQtvO662/uf/u0oGLweHUhnGS7ZUQvfh3n5rlce3FqaEnwx52O+Eb7y07OxWf7gAID3azVcft/RPrvoorx2zX+3uP8r63JBjZUjOASkB5gAAA=="
+    },
+    "hands-up": {
+      "width": 464,
+      "height": 832,
+      "alt": {
+        "es": "LANTANO mezclando, primer plano de las manos",
+        "en": "LANTANO mixing, close-up on the decks"
+      },
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAwCdASoQAB0APu1iqU2ppaOiMAgBMB2JZAC7ABucSIVS9VgA/vLKtOBb3h7WZWGrEngimBl8dtAmt9vVWSgDQaTKS4q6PkRH9SJGvZT86AyHYNTKoRnw/1QoAIZCcGo4AAAA"
+    },
+    "crowd": {
+      "width": 464,
+      "height": 832,
+      "alt": {
+        "es": "Público bailando frente a la cabina",
+        "en": "Crowd dancing in front of the booth"
+      },
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoQAB0APu1iqU2ppaOiMAgBMB2JQBfnDSv4fhhnLhOy43xUgAD+/ocG8ZdGFdzIPP1LBAdCAD8bws3N1o/y8RcFT6tuvJeVkHYl4OqZelDsKyua5U83cSGI/KcTd7aoh075KAAA"
+    }
+  }
+}
